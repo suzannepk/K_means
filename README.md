@@ -8,6 +8,19 @@ How to Run This Lab
        e. From the terminal, cut and paste the following command:
 
               git clone https://github.com/suzannepk/K_means.git
+       g. hit enter. 
+
+       you should see something like this: 
+
+     
+       [62956@jupyter-suzanne ~]$ git clone https://github.com/suzannepk/K_means.git
+       Cloning into 'K_means'...
+       remote: Enumerating objects: 12, done.
+       remote: Counting objects: 100% (12/12), done.
+       remote: Compressing objects: 100% (11/11), done.
+       remote: Total 12 (delta 0), reused 11 (delta 0), pack-reused 0 (from 0)
+       Receiving objects: 100% (12/12), 12.34 MiB | 26.05 MiB/s, done.
+
    
 4. In the left-column menu, click on K-Means.ipynb to open the notebook.
 5. Follow the directions in the notebook to complete the challenge.
