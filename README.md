@@ -22,7 +22,7 @@ How to Run This Lab
        Receiving objects: 100% (12/12), 12.34 MiB | 26.05 MiB/s, done.
 
    
-4. In the left-column menu, click on K-Means.ipynb to open the notebook.
+4. In the left-column menu, click on K_means and then K-Means.ipynb to open the notebook.
 5. Follow the directions in the notebook to complete the challenge.
 6. The last step will ask you to fill out this Google Form, https://forms.gle/SkC54qf6H8Gati6B7 with your observations from the challenge.
 
