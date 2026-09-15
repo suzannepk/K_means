@@ -3,7 +3,7 @@ How to Run This Lab
 2. 
        a. Open a browser and go to https://jupyter.olcf.ornl.gov
        b. Log in with your csep*** username and PIN + token code.
-       c. Select the CPU Workloads instance.
+       c. Select the GiMS: instance.
        d. Once it starts, click on the Terminal icon.
        e. From the terminal, cut and paste the following command:
 
